@@ -5,3 +5,7 @@ class Dog
  end
 
 end 
+
+
+dog_1 = Dog.new()
+dog_1.breed = "Mutt"
