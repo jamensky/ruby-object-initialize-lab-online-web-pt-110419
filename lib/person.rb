@@ -7,5 +7,4 @@ class Dog
 end
 
 
-dog_1 = Dog.new('name')
-dog_1.breed = "Mutt"
+dog_1 = Dog.new("Pluto", "Mutt")
