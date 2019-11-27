@@ -5,4 +5,4 @@ class Dog
 
 end
 
-dogo_ = Dog.new("name") 
+dogo_ = Dog.new("name")
