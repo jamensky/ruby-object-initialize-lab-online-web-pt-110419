@@ -1,9 +1,9 @@
-class Dog
-  def initialize(name, breed )
-    @name = name
-    @breed = breed
-  end
+
+class Person
+
+ def initialize(name)
+   @name = name
+
+ end
 
 end
-
-dogo_ = Dog.new("name")
