@@ -8,4 +8,3 @@ class Dog
 end
 
 dogo_1 = Dog.new("Fido", "Pug")
-
