@@ -4,7 +4,7 @@ class Dog
    @breed = breed
  end
 
-end 
+end
 
 
 dog_1 = Dog.new()
